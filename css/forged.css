@@ -1,0 +1,34 @@
+.program-section ul
+{
+  text-align: left;
+  list-style-position: inside;
+  padding-left: 100px;
+  list-style-image:url("../img/checkfnl.png")
+}
+
+.masthead .brand-heading
+{
+  text-align: left;
+}
+
+.content-section .uncheck
+{
+  list-style-image:url("../img/uncheck.png")
+}
+
+.how-section 
+{
+  background: url("../img/salad-blur.jpg") no-repeat center center scroll; 
+}
+
+.how-section .container 
+{
+  background-color: rgba(255, 255, 255, 0.4);
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.contact-section 
+{
+  background: url("../img/contact.jpg") no-repeat center center scroll; 
+}
