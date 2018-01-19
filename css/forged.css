@@ -32,3 +32,9 @@
 {
   background: url("../img/contact.jpg") no-repeat center center scroll; 
 }
+
+.faq-section
+{
+  padding-top: 100px;
+  padding-bottom: 0px;
+}
