@@ -38,3 +38,35 @@
   padding-top: 100px;
   padding-bottom: 0px;
 }
+
+.plan-section img
+{
+	width: 100%;
+	height: auto;
+}
+
+.plan-section ul
+{
+	list-style: none;
+	margin-left: 0;
+    padding-left: 1.2em;
+    text-indent: -1.2em;
+}
+
+.plan-section li:before
+{
+	content: "-";
+	float: left;
+	display: block;
+	width: 1.2em;
+}
+
+.asterik li:before
+{
+	content: "*";
+}
+
+.plan-section p
+{
+	margin-bottom: 10px;
+}
